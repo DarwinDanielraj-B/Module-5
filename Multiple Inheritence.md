@@ -44,6 +44,6 @@ print(d.Mul(a,b))
 ## Output Example
 <img width="416" height="252" alt="image" src="https://github.com/user-attachments/assets/a927203f-c7ed-4272-b7dc-37d1cbd0c361" />
 
-##Result
+## Result
 
 The multiple inheritence is verified successfully.
